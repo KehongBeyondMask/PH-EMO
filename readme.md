@@ -161,7 +161,7 @@ print(results)
 
 ## 🧠 Framework Overview
 
-PHEMO consists of five agents:
+PH-EMO consists of five agents:
 
 1. **EEG Perception Agent**
    Extracts neural cues from EEG waveform graphs.
@@ -248,4 +248,5 @@ This project is released under the **MIT License**.
 ## 🤝 Contact
 
 For questions or collaborations, feel free to open an issue or contact the authors.
+
 
