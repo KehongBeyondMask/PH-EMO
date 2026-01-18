@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tqdm
+pydantic
+opencv-python
+moviepy
+soundfile
+matplotlib
