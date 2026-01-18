@@ -197,7 +197,7 @@ $$
 $$
 
 
-where ( r_{i,j} \in {0,1} ) indicates whether the Judge Agent finds stage ( j ) of sample ( i ) consistent with its evidence.
+where $( r_{i,j} \in {0,1} )$ indicates whether the Judge Agent finds stage $( j )$ of sample $( i )$ consistent with its evidence.
 
 Implementation can be found in `src/metrics.py`.
 
@@ -248,5 +248,6 @@ This project is released under the **MIT License**.
 ## 🤝 Contact
 
 For questions or collaborations, feel free to open an issue or contact the authors.
+
 
 
