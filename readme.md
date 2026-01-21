@@ -16,7 +16,7 @@ Instead of directly predicting emotion labels, PH-EMO explicitly models how emot
 ## 🔥 Key Features
 
 <p align="center">
-  <img src="figs/framework.jpg" alt="Framework Overview" width="500">
+  <img src="figs/framework.svg" alt="Framework Overview" width="500">
 </p>
 
 <!-- <p align="center">
@@ -248,6 +248,7 @@ This project is released under the **MIT License**.
 ## 🤝 Contact
 
 For questions or collaborations, feel free to open an issue or contact the authors.
+
 
 
 
