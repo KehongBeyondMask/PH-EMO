@@ -249,7 +249,8 @@ This project is released under the **MIT License**.
 
 ## 🤝 Contact
 
-For questions or collaborations, feel free to open an issue or contact the authors.
+For questions or collaborations, feel free to open an issue or contact: cskhliu@hkbu.edu.hk or cskhliu@comp.hkbu.hk.
+
 
 
 
