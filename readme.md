@@ -9,8 +9,9 @@ Welcome to the official repository for the paper "PH-EMO: Decoding Emotions from
 Instead of directly predicting emotion labels, PH-EMO explicitly models how emotions emerge through:
 
 > **Trigger → Physiological Cues → Expressive Behavior**
-
 [[paper]([https://github.com/KehongBeyondMask/PH-EMO](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf))]
+
+
 ---
 
 ## 🔥 Key Features
@@ -248,6 +249,7 @@ This project is released under the **MIT License**.
 ## 🤝 Contact
 
 For questions or collaborations, feel free to open an issue or contact the authors.
+
 
 
 
