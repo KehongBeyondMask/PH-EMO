@@ -5,7 +5,7 @@
 
 
 
-Welcome to the official repository for the paper "PH-EMO: Decoding Emotions from the Brain Inward – EEG-Grounded Multimodal Reasoning with LLMs" published in WWW'26. PH-EMO is a human-consistent multimodal emotion understanding framework that integrates **EEG, audio, and video** signals through a **sequential causal reasoning process**.  
+Welcome to the official repository for the paper "PH-EMO: Decoding Emotions from the Brain Inward – EEG-Grounded Multimodal Reasoning with LLMs" published in WWW'26. PH-EMO is a human-consistent multimodal emotion understanding framework that integrates **EEG, audio, and video** signals through a **sequential causal reasoning process**.  [[paper]([https://github.com/KehongBeyondMask/PH-EMO](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf))]
 Instead of directly predicting emotion labels, PH-EMO explicitly models how emotions emerge through:
 
 > **Trigger → Physiological Cues → Expressive Behavior**
@@ -208,7 +208,7 @@ Implementation can be found in `src/metrics.py`.
 | Dataset | Modalities          | Classes |
 | ------- | ------------------- | ------- |
 | EAV     | EEG + Audio + Video | 5       |
-| LUMED-2 | EEG + Audio + Video | 3       |
+| LUMED-2 | EEG + Video         | 3       |
 
 You may easily extend this framework to new datasets by implementing a custom loader that returns:
 
@@ -248,6 +248,7 @@ This project is released under the **MIT License**.
 ## 🤝 Contact
 
 For questions or collaborations, feel free to open an issue or contact the authors.
+
 
 
 
